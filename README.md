@@ -14,12 +14,12 @@ Este repositório contém o código-fonte, esquemas e documentação do sistema 
 <table>
   <tr>
     <td align="center">
-      <img src="docs/Foto_Experimento(1).jfif" width="400" alt="Bancada de Testes"/>
+      <img src="docs/Foto_Experimento.png" width="400" alt="Bancada de Testes"/>
       <br />
       <b>Bancada de Testes Experimental</b>
     </td>
     <td align="center">
-      <img src="docs/Foto_Experimento.jfif" width="400" alt="Detalhe do Motor"/>
+      <img src="docs/Foto_Experimento_1.png" width="400" alt="Detalhe do Motor"/>
       <br />
       <b>Detalhe da Montagem do Sensor</b>
     </td>
@@ -131,7 +131,6 @@ Não é necessário escrever código do zero. A biblioteca já inclui exemplos p
 3.  Clique no botão **Upload** (Seta para a direita) e aguarde a compilação.
 4.  Após carregar, abra o **Serial Monitor** (Lupa no canto superior direito).
 5.  Ajuste a velocidade (baud rate) para **115200**.
-    *   *Você verá as probabilidades de cada classe aparecendo em tempo real.*
 
 ---
 
@@ -143,6 +142,8 @@ O código realiza o seguinte fluxo em loop contínuo:
 2. **DSP Integrado:** A biblioteca processa os dados brutos (Filtro + FFT) automaticamente.
 3. **Inferência:** Executa a Rede Neural (TFLite Micro) na borda.
 4. **Saída:** Imprime no Serial Monitor a classe detectada e sua probabilidade.
+
+---
 
 ## 📄 Licença
 
