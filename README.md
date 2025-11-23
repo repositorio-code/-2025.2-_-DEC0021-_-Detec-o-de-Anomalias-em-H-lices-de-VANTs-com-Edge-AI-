@@ -49,7 +49,7 @@ O modelo de TinyML demonstrou alta eficácia na distinção entre estados normai
 
 ### Matriz de Confusão
 <div align="center">
-  <img src="docs/Matriz_Confusao.PNG" width="600" alt="Matriz de Confusão"/>
+  <img src="docs/Matriz_Confusao.PNG" width="600" alt="docs/Matriz de Confusão"/>
   <p><i>Demonstração da precisão na classificação dos estados. Note a clara separação entre "Motor Ligado" e "Anomalia".</i></p>
 </div>
 
