@@ -1,7 +1,5 @@
 # 2025.2 - DEC0021 - Detecção de Anomalias em Hélices de VANTs com Edge AI
 
-> Projeto de Trabalho de Conclusão de Curso (TCC) - UFSC Campus Araranguá
-
 Este repositório contém o código-fonte, esquemas e documentação do sistema embarcado desenvolvido para detectar falhas estruturais e operacionais (desbalanceamento) em sistemas rotativos de drones utilizando Inteligência Artificial na borda (*TinyML*).
 
 **Autor:** [Nikolas Lopes]  
@@ -14,24 +12,45 @@ Este repositório contém o código-fonte, esquemas e documentação do sistema 
 <table>
   <tr>
     <td align="center">
-      <img src="docs/Foto_Drone.png" width="400" alt="Montagem Final"/>
+      <img src="docs/Foto_Drone.png" width="400" alt="Configuração da Hélice"/>
       <br />
-      <b>Sistema completo</b>
+      <b>Configuração da Hélice e Motor</b>
     </td>
     <td align="center">
-      <img src="docs/Foto_Montagem.png" width="400" alt="Setup Sensor e Helice"/>
+      <img src="docs/Foto_Montagem.png" width="400" alt="Detalhe do Sensor"/>
       <br />
       <b>Montagem do Sensor Arduino</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="docs/Foto_Setup.png" width="600" alt="Montagem para coleta"/>
+      <img src="docs/Foto_Setup.png" width="600" alt="Setup Completo"/>
       <br />
-      <b>Montagem Para Coleta</b>
+      <b>Visão Geral da Bancada de Testes</b>
     </td>
   </tr>
 </table>
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+O projeto foi desenvolvido utilizando a seguinte stack tecnológica:
+
+*   **Hardware Embarcado:**  
+    ![Arduino](https://img.shields.io/badge/Arduino_Nano_33_BLE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+    ![ARM Cortex-M4](https://img.shields.io/badge/ARM_Cortex--M4F-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+
+*   **Inteligência Artificial e ML:**  
+    ![Edge Impulse](https://img.shields.io/badge/Edge_Impulse-15879A?style=for-the-badge&logo=edgeimpulse&logoColor=white)
+    ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite_Micro-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+*   **Processamento de Sinais:**  
+    ![DSP](https://img.shields.io/badge/DSP-FFT_%26_Spectral_Analysis-blue?style=for-the-badge)
+
+*   **Linguagem e IDE:**  
+    ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
