@@ -14,14 +14,21 @@ Este repositório contém o código-fonte, esquemas e documentação do sistema 
 <table>
   <tr>
     <td align="center">
-      <img src="docs/Foto_Experimento.png" width="400" alt="Bancada de Testes"/>
+      <img src="docs/Foto_Drone.png" width="400" alt="Configuração da Hélice"/>
       <br />
-      <b>Bancada de Testes Experimental</b>
+      <b>Configuração da Hélice e Motor</b>
     </td>
     <td align="center">
-      <img src="docs/Foto_Experimento_1.png" width="400" alt="Detalhe do Motor"/>
+      <img src="docs/Foto_Montagem.png" width="400" alt="Detalhe do Sensor"/>
       <br />
-      <b>Detalhe da Montagem do Sensor</b>
+      <b>Montagem do Sensor Arduino</b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="docs/Foto_Setup.png" width="600" alt="Setup Completo"/>
+      <br />
+      <b>Visão Geral da Bancada de Testes</b>
     </td>
   </tr>
 </table>
