@@ -1,6 +1,29 @@
 # 🛠 Especificações de Hardware
 
-Este diretório contém detalhes técnicos sobre os componentes físicos utilizados na construção da bancada de testes e do sistema embarcado do projeto.
+Este diretório contém detalhes técnicos e visuais sobre os componentes físicos utilizados na construção da bancada de testes e do sistema embarcado do projeto.
+
+## 📸 Galeria de Componentes
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="../docs/Arduino_Nano33.jpg" width="250" alt="Arduino Nano 33 BLE Sense"/>
+        <br /><b>Microcontrolador</b>
+      </td>
+      <td align="center">
+        <img src="../docs/Imagem_Motor_Drone_Brushless (1).jfif" width="250" alt="Motor Brushless D2836"/>
+        <br /><b>Motor Brushless D2836</b>
+      </td>
+      <td align="center">
+        <img src="../docs/Diagrama_Circuito.jpg" width="250" alt="Esquemático Simplificado"/>
+        <br /><b>Diagrama de Conexão</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ## 1. Microcontrolador: Arduino Nano 33 BLE Sense
 A unidade de processamento central responsável pela coleta de dados e execução do modelo de TinyML.
@@ -33,5 +56,6 @@ Para os testes de indução de falhas, foram utilizados dois conjuntos:
 *   **Tipo:** 1045 (10 polegadas x 4.5 de passo), Plástico ABS.
 *   **Modificação de Falha:** Aplicação de fita adesiva em uma das pás para alterar o centro de gravidade e induzir vibração por desbalanceamento dinâmico, sem destruição da peça.
 
-> *Nota: As conexões elétricas devem ser isoladas para evitar curto-circuitos devido à vibração excessiva durante os testes de anomalia.*
+## 5. Diagrama de Montagem (Conceitual)
+O sistema é montado em uma bancada estática para garantir segurança e repetibilidade.
 
