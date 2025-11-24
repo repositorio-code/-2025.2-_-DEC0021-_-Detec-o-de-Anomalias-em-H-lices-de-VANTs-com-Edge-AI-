@@ -16,10 +16,6 @@ Este diretório contém detalhes técnicos e visuais sobre os componentes físic
         <img src="MotorBrushless.png" width="250" alt="Motor Brushless D2836"/>
         <br /><b>Motor Brushless D2836</b>
       </td>
-      <td align="center">
-        <img src="DiagramaCircuito.png" width="400" alt="Esquemático Simplificado"/>
-        <br /><b>Diagrama de Conexão</b>
-      </td>
     </tr>
   </table>
 </div>
@@ -29,6 +25,7 @@ Este diretório contém detalhes técnicos e visuais sobre os componentes físic
         <br /><b>Diagrama de Conexão</b>
 </td>
 </div>
+
 ## 1. Microcontrolador: Arduino Nano 33 BLE Sense
 A unidade de processamento central responsável pela coleta de dados e execução do modelo de TinyML.
 
