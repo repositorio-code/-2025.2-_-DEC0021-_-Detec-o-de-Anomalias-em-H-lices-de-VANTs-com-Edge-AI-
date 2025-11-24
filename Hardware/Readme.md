@@ -9,15 +9,15 @@ Este diretório contém detalhes técnicos e visuais sobre os componentes físic
   <table>
     <tr>
       <td align="center">
-        <img src="Hardware/ArduinoNANO.png" width="250" alt="Arduino Nano 33 BLE Sense"/>
+        <img src="ArduinoNANO.png" width="250" alt="Arduino Nano 33 BLE Sense"/>
         <br /><b>Microcontrolador</b>
       </td>
       <td align="center">
-        <img src="Hardware/MotorBrushless.png" width="250" alt="Motor Brushless D2836"/>
+        <img src="MotorBrushless.png" width="250" alt="Motor Brushless D2836"/>
         <br /><b>Motor Brushless D2836</b>
       </td>
       <td align="center">
-        <img src="Hardware/DiagramaCircuito.png" width="250" alt="Esquemático Simplificado"/>
+        <img src="DiagramaCircuito.png" width="250" alt="Esquemático Simplificado"/>
         <br /><b>Diagrama de Conexão</b>
       </td>
     </tr>
